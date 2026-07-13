@@ -301,7 +301,7 @@ Esto permite identificar conexiones complejas y patrones de comportamiento difí
 
 Se utilizó arquitectura Medallion:
 
-![Arquitectura Datos Medallion](images-visuals-readme/Arquitectura_de_Datos.png)
+![Arquitectura](7.Arquitectura/arquitectura.png)
 
 
 
