@@ -322,7 +322,7 @@ El dashboard desarrollado permite:
 ✔️ Explorar relaciones mediante filtros dinámicos.
 
 ![dashboard1](4.Dashboard/1.PNG)
-![dashboard2](dashboard/screenshots/Dashboard_2.jpg)
+![dashboard2](4.Dashboard/2.PNG)
 
 
 ## 🧠 14. ¿Qué demuestra este proyecto?
